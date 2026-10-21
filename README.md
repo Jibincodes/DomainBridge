@@ -1,6 +1,6 @@
 # Domain Bridge — Interactive Prototype
 
-A locally runnable, offline, six-screen prototype of the proposed Domain Bridge service for Sameh Mathew (MSc Business Information Systems, FHNW).
+A locally runnable, offline, six-screen prototype of the proposed Domain Bridge service for Sameh Mathew (MSc Business Information Systems, FHNW). Part of AI+ : Strategy & Consulting - Strategic Business Innovation - AS26 module.
 
 ## Start in 10 seconds
 
